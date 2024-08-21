@@ -1,0 +1,1 @@
+Mi nombre es Martina Schaller. Decide hacer un simulador de calificacion de examen, consta de 4 preguntas simple de programacion, se ingresa la respuesta el programa compara la respuesta ingresada con la correcta y en base a eso saca el puntaje final. Si este puntaje es menor a 50% se cuenta como desaprobado.
